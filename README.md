@@ -15,4 +15,4 @@ Each command returns a message for confirmation.
 ---  
 
 <img src="https://i.imgur.com/Y8jmdBk.png" width="300">  
-Created by Konrad Barszcz for a final assignment.
+Created by Konrad Barszcz for WSEI - Introduction to OS Linux final assignment.
